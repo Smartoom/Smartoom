@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Smartoom
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning ["coding","3d modeling and riggin","making things look good"]
+- 🌱 I’m currently learning ["coding","game development"]
 - 💞️ I’m looking to collaborate on games (sometimes gamejams)
 - 📫 How to reach me: email me at smartoom.knight@gmail.com
 

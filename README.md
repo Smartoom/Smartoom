@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Smartoom
-- 👀 I’m interested in games
-- 🌱 I’m currently learning ["coding","game development"]
-- 💞️ I’m looking to collaborate on games (sometimes gamejams)
-- 📫 How to reach me: dm me on Discord, my username is smartoom
+- 👀 I’m interested in game development
+- 🌱 I’m currently struggling through learning ["project management skills","prototyping"]
+- 💞️ I’m looking to collaborate on gamejams.
+- 📫 How to reach me: dm me on Discord, my username is smartoom.
+- 🎮 Also check out my games page on smartoom.itch.io
 
 <!---
 Smartoom/Smartoom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
